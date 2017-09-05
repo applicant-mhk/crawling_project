@@ -10,7 +10,7 @@ Before executing these codes on command window, please install Node.js first on 
 
 # Executing the codes
 
-1. (After installing Node.js) please typing like below on the command window.
+1. (After installing Node.js) please typing like below to execute the main source code file, 'crawling.js' on the command window.
 >node crawling.js
 
 2. Then the codes will crawl the medical information of a hospital and print them on the command window in real time.
