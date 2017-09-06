@@ -1,7 +1,7 @@
 # crawling_project
 
 
-This Crawling Project is developed with Javascript and Node.js.
+This Crawling Project was developed with Javascript and Node.js.
 
 Before executing these codes on command window, please install Node.js (https://nodejs.org/en/) first on your laptop or desktop.
 
